@@ -1,31 +1,5 @@
+Security Scan Report - 2025-08-05 20:51:44.612519 UTC
+============================================================
 
-=== Security Report: 2025-08-04 12:19:35 ===
-Scanned directory: /home/steve
-No world-writable files found.
-
-Scanned log file: home/
-FAILED entries: 0
-ERROR entries: 0
-DENIED entries: 0
-==============================
-
-=== Security Report: 2025-08-04 12:24:45 ===
-Scanned directory: home/steve/Desktop/
-No world-writable files found.
-
-Scanned log file: home/steve/Desktop/Logs.txt
-FAILED entries: 0
-ERROR entries: 0
-DENIED entries: 0
-==============================
-
-=== Security Report: 2025-08-04 12:26:48 ===
-Scanned directory: /home/steve/test_dir
-World-writable files (1):
-  - /home/steve/test_dir/world.txt
-
-Scanned log file: /home/steve/test.log
-FAILED entries: 1
-ERROR entries: 1
-DENIED entries: 1
-==============================
+[1] ClamAV Virus Scan on ~:
+Running clamscan recursively. This might take a while.
