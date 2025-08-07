@@ -1,0 +1,8 @@
+# Nmap 7.95 scan initiated Thu Aug  7 21:08:30 2025 as: /usr/lib/nmap/nmap -T4 -sV -oA recon_192.168.6.103_20250807_210830/nmap_fast 192.168.6.103
+Nmap scan report for 192.168.6.103
+Host is up (0.0000070s latency).
+All 1000 scanned ports on 192.168.6.103 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Aug  7 21:08:30 2025 -- 1 IP address (1 host up) scanned in 0.47 seconds
